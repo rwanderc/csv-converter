@@ -1,0 +1,2 @@
+item[0].note,item[0].price,item[0].quantity,item[0].title,item[1].price,item[1].quantity,item[1].title,orderperson,shipto.address,shipto.city,shipto.country,shipto.name
+Special Edition,10.90,1,Empire Burlesque,9.90,1,Hide your heart,John Smith,Langgt 23,4000 Stavanger,Norway,Ola Nordmann
