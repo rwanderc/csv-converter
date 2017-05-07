@@ -1,4 +1,7 @@
 # CSV Converter
+
+[![Build Status](https://travis-ci.org/rwanderc/csv-converter.svg?branch=master)](https://travis-ci.org/rwanderc/csv-converter)
+
 CSV Converter is an application to convert JSON and XML files into CSV.
 It was designed as a microservice to provide high quality and adaptable solution for possible applications consuming it.
 As a web service, it offers language-agnostic solution and a high performance experience, making possible for different
